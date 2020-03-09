@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to GrapeKIT - Grape genome toolkit from KIT
 
-You can use the [editor on GitHub](https://github.com/mygeninformatics/GrapeKIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Genomic resource are extremely important in the current-day data-driven scientific approaches. To utilize the full potential of available grape (Vitis sp.) germplasm in our botanical garden, we have sequenced nearly 90 Vitis accessions from various geographical locations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These resources provide us an opportunity to investigate the genetic factors behind the various important traits of interest. To get access to the data, please contact [Prof. Peter Nick](https://www.botanik.kit.edu/botzell/english/1134.php).
 
-### Markdown
+Recommended literature:
+Liang, Z., Duan, S., Sheng, J. et al. Whole-genome resequencing of 472 Vitis accessions for grapevine diversity and demographic history analyses. Nat Commun 10, 1190 (2019). [DOI:10.1038/s41467-019-09135-8](https://doi.org/10.1038/s41467-019-09135-8)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mygeninformatics/GrapeKIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
